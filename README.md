@@ -26,6 +26,15 @@
 - : 🎓 Currently Learning in Universitas Gadjah Mada
 - : 🎮 I Mainly Focus in Front End Web Development and Game Development
 - : 🎨 I Also Enjoy Graphic Design
+- : 💻 I'm open to freelannce work!, interested?? 👀 hit me up at 
+<div class='hmu' align='center'>
+        <a href="https://www.linkedin.com/in/muhluthfiar/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+      </a> OR
+       <a href='mailto:luthfiazzahra03@gmail.com'>
+        <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
+      </a>
+ </div>
 ---
 ## 🔥 Here Are My GitHub Stats!
 
