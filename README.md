@@ -40,12 +40,5 @@
   <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' width='50px'>
 </div>
----
-## 🔥 My GitHub Stats:
-<div id='stats' align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadLuthfi2003&theme=dark)](https://git.io/streak-stats)
-</div>
-<div id='stats-2' align='center'>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadLuthfi2003&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 
