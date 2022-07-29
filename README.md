@@ -29,6 +29,16 @@
 ---
 ## ⚒️ Here Are The Tools I Mostly Used!
 <div id='tools'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg' width='50px'>
+   <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50px'>
+    <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' width='50px'>
 </div>
 ---
 ## 🔥 My GitHub Stats:
