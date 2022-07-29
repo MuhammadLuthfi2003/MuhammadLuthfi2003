@@ -27,6 +27,12 @@
 - : 🎮 I Mainly Focus in Front End Web Development and Game Development
 - : 🎨 I Also Enjoy Graphic Design
 ---
+## 🔥 Here Are My GitHub Stats!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadLuthfi2003)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadLuthfi2003)](https://git.io/streak-stats)
+
+---
 ## ⚒️ Here Are The Tools I Mostly Used!
 <div id='tools'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg' width='50px'>
@@ -37,6 +43,7 @@
    <img src='https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg' width='50px'>
     <img src='https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg' width='50px'>
+  <img src='https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg' width='50px'>
   <img src='https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg' width='50px'>
 </div>
