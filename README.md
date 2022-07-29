@@ -35,6 +35,7 @@
         <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="LinkedIn Badge"/>
       </a>
  </div>
+ 
 ---
 ## 🔥 Here Are My GitHub Stats!
 
