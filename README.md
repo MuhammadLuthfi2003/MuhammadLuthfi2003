@@ -21,12 +21,11 @@
 
   <div align='center'>Check Out My Portfolio Website! ⬇️⬇️⬇️</div>
 
-<div id="count" align="center">
-  🚧(Website Currently Under Construction) 🚧
-</div>
 
 <div id="count" align="center">
+<a href='https://muhluthfiar.vercel.app'>
   <img src="https://img.shields.io/badge/Website-brightgreen?style=for-the-badge&logo=web&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 ---
