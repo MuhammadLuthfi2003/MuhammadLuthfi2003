@@ -67,6 +67,7 @@
   <img src='https://img.informer.com/icons_mac/png/128/579/579303.png' width='50px'>
   <img src='https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-4.png' width='50px'>
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png' width='50px'>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width='50px'>
 </div>
 
 
