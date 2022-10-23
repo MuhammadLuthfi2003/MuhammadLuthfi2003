@@ -35,8 +35,8 @@
 - : 🎓 Currently Learning in Universitas Gadjah Mada
 - : 🎮 I Mainly Focus in Front End Web Development and Game Development
 - : 🎨 I Also Enjoy Graphic Design
-- : 💻 I'm open to freelance work!, interested?? 👀 hit me up at 
 - : Future GameDev Hopefully, still stuck on web development
+- : 💻 I'm open to freelance work!, interested?? 👀 hit me up at 
 <div class='hmu' align='center'>
         <a href="https://www.linkedin.com/in/muhluthfiar/">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
