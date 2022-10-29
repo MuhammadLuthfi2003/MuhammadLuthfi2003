@@ -49,7 +49,7 @@
 ---
 ## 🔥 Here Are My GitHub Stats!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadLuthfi2003&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadLuthfi2003&theme=dracula&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MuhammadLuthfi2003&theme=dracula)](https://git.io/streak-stats)
 
 ---
